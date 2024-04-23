@@ -1,2 +1,3 @@
 # first
-code
+first git repo
+Author - Avinash
